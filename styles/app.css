@@ -1,0 +1,46 @@
+.container{
+    background-image: url('http://s1.funon.cc/img/orig/201606/10/575a4a84d22db.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    color: white;
+}
+
+.center{
+    width: 50%;
+    margin: auto;
+}
+
+.container{
+    padding: 100px 0 0 0;
+}
+
+.menu .fire{
+    width: 30px;
+    margin-right: 10px;
+    display: none;
+}
+
+.container .menu ul{
+    font-size: 36px;
+    list-style: none;
+    text-align: center;
+    padding: 0;
+}
+
+.container .menu ul li{
+    padding: 5px 0;
+}
+
+.container .menu ul li:hover img.fire{
+    display: inline-block;
+}
+
+.container .menu ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+.container .create-player input.name{
+    color:black;
+}
