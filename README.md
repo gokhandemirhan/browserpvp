@@ -2,4 +2,4 @@
 
 A simple PvP game where you are trying to equip better items and defeat random enemies.
 
-[![](https://raw.githubusercontent.com/gokhandemirhan/browserpvp/master/images/screenshot.png)]()
+![](https://raw.githubusercontent.com/gokhandemirhan/browserpvp/master/images/screenshot.png | width=400)
