@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "budo scripts/app.js:bundle.js --live -- -t hbsfy",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",

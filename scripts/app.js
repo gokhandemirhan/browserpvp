@@ -14,7 +14,8 @@ router
         '/index': IndexView,
         '/createPlayer': CreatePlayerView,
         '*': function () {
-            console.log('different url')
+            console.log('Different url, redirecting to index');
+            router.navigate('/index');
         }
     })
     .resolve();
